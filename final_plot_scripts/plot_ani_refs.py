@@ -10,35 +10,30 @@ import numpy as np
 import sys
 
 
-aniu_gtdb = "./results/gtdb_aniu.txt"
-aniu_D2 = "./results/D2_aniu.txt"
-aniu_D3 = "./results/D3_aniu.txt"
-refseq_aai = "./results/refseq_aai-k12.txt"
+aniu_gtdb = "./precomputed_results//gtdb_aniu.txt"
+aniu_D3 = "./precomputed_results/D3_aniu.txt"
+refseq_aai = "./precomputed_results/refseq_aai-k12.txt"
 skani_gtdb = "./results/gtdb_skani.txt"
-skani_D2 = "./results/D2_skani.txt"
-#skani_D3 = "./results/D3_skani.txt"
 skani_D3 = "./results/D3_skani.txt"
 refseq_skani = "./results/refseq_skani_aai-k12.txt"
 mash_gtdb = "./results/gtdb_mash.txt"
-mash_D2 = "./results/D2_mash.txt"
 mash_D3 = "./results/D3_mash.txt"
 refseq_sourmash = "./results/refseq_sourmash_aai-k12.txt"
-fastani_gtdb = "./results/gtdb_fastani.txt"
-fastani_D2 = "./results/D2_fastani.txt"
+fastani_gtdb = "./precomputed_results/gtdb_fastani.txt"
 fastani_D3 = "./results/D3_fastani.txt"
 refseq_fastaai = "./results/refseq_fastaai-k12.txt"
 ref_file_i = [aniu_D3, aniu_gtdb, refseq_aai]
 other_files_i = [[fastani_D3,mash_D3,skani_D3,], [fastani_gtdb, mash_gtdb,skani_gtdb], [ refseq_fastaai, refseq_sourmash, refseq_skani]]
 #plt.style.use(['science'])
 
-D3_gstawk = "./d3_gstawk.txt"
+D3_gstawk = "./precomputed_results/d3_gstawk.txt"
 
 gstawk_dict = dict()
 for line in open(D3_gstawk, 'r'):
     if 'assembly' in line:
         continue
     spl = line.split('\t')
-    spl_g = spl[0].split('/')[-1]
+    spl_g = spl[0].split('/')[-1].split('.')[0]
     genome = spl_g
     N50 = int(spl[-2])
     gstawk_dict[genome] = N50
@@ -49,7 +44,7 @@ plt.rcParams.update({'font.family':'arial'})
 cm = 1/2.54  # centimeters in inches
 fig = plt.figure(figsize=(18*cm, 6*cm))
 d_max = 100000
-n50_thresh = 10000
+n50_thresh = 0
 
 #plt.rcParams['image.cmap'] = 'Accent'
 #plt.rcParams['axes.prop_cycle'] = cycler.cycler('color', color)
@@ -75,9 +70,11 @@ for j in range(3):
             other_ref = spl[0]
         elif "aai" in ref_file:
             other_ref = spl[2]
-        else:
+        elif "sourmash" in ref_file:
             other_ref = spl[1]
-        other_ref = other_ref.split("/")[-1]
+        elif "mash" in ref_file:
+            other_ref = spl[0]
+        other_ref = other_ref.split("/")[-1].split('.')[0]
         if 'D3' in ref_file and gstawk_dict[other_ref] < n50_thresh:
             continue
         if "fastani" in ref_file or "anim" in ref_file:
@@ -98,7 +95,7 @@ for j in range(3):
             for line in open(file, 'r'):
                 spl = line.split(',')
                 other_ref = spl[2]
-                other_ref = other_ref.split("/")[-1][0:-4]
+                other_ref = other_ref.split("/")[-1][0:-4].split('.')[0]
                 if other_ref in refs_to_ani:
                     try:
                         ani = float(spl[7])
@@ -110,13 +107,13 @@ for j in range(3):
         else:
             for line in open(file, 'r'):
                 spl = line.split()
-                if "skani" in file or "aniu" in file:
+                if "skani" in file or "aniu" in file or ('mash' in file and 'sour' not in file):
                     other_ref = spl[0]
                     if "NaN" in line:
                         continue
                 else:
                     other_ref = spl[1]
-                other_ref = other_ref.split("/")[-1]
+                other_ref = other_ref.split("/")[-1].split('.')[0]
                 if other_ref in refs_to_ani:
                     try:
                         if "fastani" in file or "anim" in file:
@@ -132,6 +129,7 @@ for j in range(3):
                     except:
                         x = 5
 
+    #print(refs_to_ani)
 
     todel = []
     for key in refs_to_ani.keys():
@@ -141,7 +139,6 @@ for j in range(3):
         del refs_to_ani[key]
 
     points = np.array([x for x in refs_to_ani.values()])
-    diff = 0
     worst = "na"
     sort_vec = []
     smallest_val = 100
@@ -164,7 +161,7 @@ for j in range(3):
 
     #print(stats.spearmanr(oned_sort), 'spearman')
     for i in range(len(other_files)):
-        #print(other_files[i])
+        print(other_files[i])
         l1_results.append(np.linalg.norm([x[1][0] - x[1][i+1] for x in sort_vec], ord=1))
         lr_results.append(stats.linregress(oned_sort[:,0], oned_sort[:,i+1]))
         print(other_files[i], 'R: ', lr_results[-1].rvalue)
@@ -219,8 +216,6 @@ for j in range(3):
     plt.legend(frameon=False)
     plt.title(title, fontsize = 7)
     ax.plot(range(int(smallest_val),101), range(int(smallest_val),101), c = line_colour)
-
-
 
 plt.savefig('figures/ani_aai_plot.svg', transparent = True)
 plt.show()
