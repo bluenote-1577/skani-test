@@ -44,17 +44,17 @@ rule checkm_folders_less_50_files:
 #Requires sourmash, mash, fastani, skani, and pyani to be in PATH. 
 rule ani_folders_25_to_50_files:
     input:
-        "/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part1/",
-        "/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part2/",
-        "/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part3/",
-        "/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/",
-        "/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part5/"
+        "references/SGB_genome_fastas_part1/",
+        "references/SGB_genome_fastas_part2/",
+        "references/SGB_genome_fastas_part3/",
+        "references/SGB_genome_fastas_part4/",
+        "references/SGB_genome_fastas_part5/"
     output:
-        "/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part1/25-50/",
-        "/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part2/25-50/",
-        "/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part3/25-50/",
-        "/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/25-50/",
-        "/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part5/25-50/"
+        "./precomputed_results//25-50/",
+        "./precomputed_results//25-50/",
+        "./precomputed_results//25-50/",
+        "./precomputed_results//25-50/",
+        "./precomputed_results//25-50/"
     run:
         import glob
         for i in range(len(input)):
