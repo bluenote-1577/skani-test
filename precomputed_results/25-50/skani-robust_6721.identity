@@ -1,0 +1,27 @@
+26
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/BackhedF_2015__SID615_M__bin.51.fa
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/DavidLA_2015__LD-Run1-06__bin.12.fa	0.9617
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/DavidLA_2015__LD-Run2-18__bin.1.fa	0.9590	1.0000
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/DavidLA_2015__LD-Run2-28__bin.3.fa	0.9591	0.9836	0.9823
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/OhJ_2014__MET0251__bin.14.fa	0.9593	0.9596	0.9573	0.9571
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM001.4__bin.23.fa	0.9617	0.9608	0.9600	0.9587	0.9641
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM002.1__bin.13.fa	0.9598	0.9584	0.9590	0.9584	0.9597	0.9706
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM002.2__bin.2.fa	0.9598	0.9584	0.9585	0.9581	0.9586	0.9694	0.9997
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM005.1__bin.8.fa	0.9618	0.9624	0.9602	0.9595	0.9618	0.9699	0.9676	0.9658
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM005.3__bin.2.fa	0.9584	0.9599	0.9577	0.9562	0.9599	0.9675	0.9666	0.9657	0.9996
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM018__bin.11.fa	0.9640	0.9647	0.9625	0.9622	0.9650	0.9744	0.9709	0.9705	0.9686	0.9689
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM021.1__bin.1.fa	0.9630	0.9631	0.9612	0.9599	0.9624	0.9715	0.9676	0.9675	0.9670	0.9668	0.9704
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM029.3__bin.26.fa	0.9603	0.9605	0.9585	0.9581	0.9607	0.9706	0.9684	0.9672	0.9694	0.9677	0.9710	0.9682
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM043.2__bin.9.fa	0.9602	0.9605	0.9600	0.9594	0.9612	0.9651	0.9646	0.9639	0.9602	0.9624	0.9674	0.9652	0.9647
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM049.1__bin.11.fa	0.9599	0.9602	0.9591	0.9577	0.9615	0.9697	0.9726	0.9723	0.9668	0.9638	0.9723	0.9700	0.9670	0.9676
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM049.2__bin.7.fa	0.9605	0.9574	0.9549	0.9582	0.9591	0.9696	0.9717	0.9716	0.9664	0.9622	0.9720	0.9698	0.9658	0.9679	0.9999
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM050.3__bin.14.fa	0.9635	0.9630	0.9623	0.9627	0.9643	0.9656	0.9638	0.9631	0.9635	0.9636	0.9667	0.9626	0.9654	0.9616	0.9646	0.9644
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM050.4__bin.44.fa	0.9628	0.9626	0.9607	0.9602	0.9629	0.9656	0.9634	0.9629	0.9627	0.9631	0.9670	0.9609	0.9644	0.9578	0.9636	0.9629	0.9983
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM083.2__bin.6.fa	0.9597	0.9603	0.9588	0.9575	0.9616	0.9679	0.9660	0.9658	0.9629	0.9638	0.9684	0.9631	0.9656	0.9645	0.9661	0.9653	0.9619	0.9603
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM083.5__bin.7.fa	0.9626	0.9603	0.9597	0.9593	0.9628	0.9686	0.9677	0.9671	0.9649	0.9656	0.9718	0.9654	0.9677	0.9673	0.9694	0.9697	0.9640	0.9633	0.9981
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM096__bin.10.fa	0.9633	0.9609	0.9600	0.9604	0.9616	0.9695	0.9660	0.9666	0.9664	0.9657	0.9715	0.9681	0.9674	0.9646	0.9673	0.9663	0.9648	0.9647	0.9656	0.9665
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM099.1__bin.4.fa	0.9610	0.9599	0.9588	0.9589	0.9587	0.9650	0.9618	0.9611	0.9676	0.9646	0.9670	0.9643	0.9647	0.9610	0.9614	0.9611	0.9655	0.9630	0.9621	0.9635	0.9607
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM103.1__bin.13.fa	0.9602	0.9602	0.9589	0.9580	0.9595	0.9653	0.9630	0.9625	0.9686	0.9659	0.9674	0.9639	0.9627	0.9620	0.9605	0.9598	0.9656	0.9642	0.9625	0.9633	0.9645	0.9997
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM103.2__bin.15.fa	0.9607	0.9603	0.9572	0.9592	0.9605	0.9661	0.9631	0.9645	0.9680	0.9662	0.9675	0.9645	0.9633	0.9624	0.9632	0.9615	0.9668	0.9643	0.9619	0.9635	0.9661	0.9998	0.9999
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/VincentC_2016__MM103.3__bin.13.fa	0.9607	0.9570	0.9582	0.9582	0.9589	0.9654	0.9619	0.9612	0.9673	0.9657	0.9663	0.9639	0.9645	0.9609	0.9610	0.9602	0.9656	0.9622	0.9609	0.9617	0.9614	0.9995	0.9995	0.9997
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/6721/ZeeviD_2015__PNP_Main_122__bin.62.fa	0.9661	0.9645	0.9631	0.9622	0.9883	0.9673	0.9659	0.9665	0.9648	0.9657	0.9671	0.9662	0.9672	0.9652	0.9665	0.9659	0.9671	0.9655	0.9626	0.9655	0.9667	0.9654	0.9659	0.9659	0.9651

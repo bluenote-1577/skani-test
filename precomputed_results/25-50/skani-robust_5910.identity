@@ -1,0 +1,29 @@
+28
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.16.ST__bin.19.fa
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.22.ST__bin.54.fa	0.9952
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.26.ST__bin.32.fa	0.9960	0.9945
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.27.ST__bin.64.fa	0.9961	0.9950	0.9981
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.4.ST__bin.64.fa	0.9950	1.0000	0.9946	0.9950
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.5.ST__bin.28.fa	0.9960	0.9946	0.9980	0.9997	0.9942
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.52.ST__bin.84.fa	0.9960	0.9945	0.9952	0.9950	0.9943	0.9949
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.7.ST__bin.59.fa	0.9954	0.9945	0.9951	0.9949	0.9942	0.9947	0.9952
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.37.ST__bin.49.fa	0.9952	0.9933	0.9950	0.9954	0.9943	0.9952	0.9960	0.9948
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.39.ST__bin.7.fa	0.9962	0.9950	0.9980	0.9995	0.9942	0.9995	0.9949	0.9947	0.9954
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.44.ST__bin.90.fa	0.9960	0.9949	0.9958	0.9960	0.9948	0.9956	0.9954	0.9950	0.9951	0.9958
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.45.ST__bin.27.fa	0.9959	0.9939	0.9955	0.9954	0.9936	0.9948	0.9943	0.9949	0.9944	0.9950	0.9952
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.48.ST__bin.36.fa	0.9955	0.9951	0.9950	0.9949	0.9946	0.9947	0.9948	0.9949	0.9947	0.9950	0.9957	0.9941
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.49.ST__bin.71.fa	0.9955	0.9943	0.9946	0.9949	0.9948	0.9946	0.9949	0.9944	0.9948	0.9951	0.9956	0.9936	1.0000
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.58.ST__bin.20.fa	0.9960	0.9943	0.9950	0.9949	0.9947	0.9949	1.0000	0.9951	0.9959	0.9948	0.9955	0.9940	0.9947	0.9950
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.18.ST__bin.8.fa	0.9957	0.9942	0.9954	0.9957	0.9941	0.9953	0.9961	0.9951	0.9960	0.9958	0.9955	0.9950	0.9951	0.9950	0.9961
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.21.ST__bin.22.fa	0.9954	0.9938	0.9953	0.9953	0.9939	0.9950	0.9957	0.9951	0.9961	0.9954	0.9951	0.9955	0.9946	0.9949	0.9957	0.9973
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.36.ST__bin.14.fa	0.9974	0.9945	0.9956	0.9956	0.9947	0.9953	0.9950	0.9946	0.9949	0.9953	0.9954	0.9952	0.9950	0.9946	0.9950	0.9951	0.9947
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.38.ST__bin.27.fa	0.9923	0.9953	0.9952	0.9953	0.9951	0.9952	0.9958	0.9956	0.9950	0.9955	0.9950	0.9949	0.9960	0.9960	0.9957	0.9956	0.9957	0.9962
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.39.ST__bin.103.fa	0.9953	0.9945	0.9949	0.9956	0.9948	0.9954	0.9963	0.9956	0.9983	0.9955	0.9953	0.9952	0.9953	0.9950	0.9962	0.9964	0.9958	0.9950	0.9951
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.4.ST__bin.7.fa	0.9958	0.9947	0.9953	0.9949	0.9946	0.9948	0.9959	0.9950	0.9959	0.9944	0.9955	0.9945	0.9951	0.9952	0.9959	0.9963	0.9959	0.9950	0.9960	0.9963
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.42.ST__bin.27.fa	0.9923	0.9959	0.9955	0.9958	0.9960	0.9957	0.9959	0.9959	0.9958	0.9958	0.9961	0.9951	0.9988	0.9987	0.9959	0.9954	0.9952	0.9963	0.9932	0.9960	0.9957
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.11.ST__bin.73.fa	0.9957	0.9945	0.9950	0.9945	0.9945	0.9943	0.9943	0.9946	0.9945	0.9938	0.9955	0.9942	0.9951	0.9948	0.9949	0.9951	0.9945	0.9949	0.9950	0.9953	0.9949	0.9956
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.13.ST__bin.51.fa	0.9956	0.9947	0.9947	0.9942	0.9945	0.9942	0.9944	0.9943	0.9945	0.9936	0.9956	0.9941	0.9951	0.9947	0.9945	0.9951	0.9943	0.9950	0.9947	0.9951	0.9946	0.9955	1.0000
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.33.ST__bin.14.fa	0.9973	0.9942	0.9955	0.9954	0.9942	0.9950	0.9952	0.9944	0.9944	0.9953	0.9952	0.9955	0.9948	0.9941	0.9952	0.9949	0.9945	0.9990	0.9960	0.9948	0.9946	0.9960	0.9950	0.9950
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.62.ST__bin.29.fa	0.9953	0.9947	0.9950	0.9955	0.9950	0.9953	0.9962	0.9951	0.9960	0.9956	0.9956	0.9950	0.9952	0.9949	0.9962	0.9965	0.9960	0.9954	0.9954	0.9962	0.9999	0.9953	0.9953	0.9953	0.9952
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.67.ST__bin.42.fa	0.9957	0.9945	0.9953	0.9949	0.9945	0.9948	0.9959	0.9950	0.9960	0.9945	0.9954	0.9947	0.9949	0.9950	0.9959	0.9962	0.9960	0.9951	0.9958	0.9964	1.0000	0.9957	0.9949	0.9947	0.9947	0.9999
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.8.ST__bin.6.fa	0.9956	0.9945	0.9949	0.9943	0.9945	0.9942	0.9943	0.9943	0.9945	0.9937	0.9956	0.9942	0.9949	0.9947	0.9945	0.9950	0.9945	0.9949	0.9950	0.9951	0.9946	0.9956	1.0000	1.0000	0.9950	0.9952	0.9947
