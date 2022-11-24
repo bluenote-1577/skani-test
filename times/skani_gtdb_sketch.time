@@ -1,0 +1,23 @@
+	Command being timed: "skani sketch -o gtdb_skani_sketch -l gtdb_all.txt -t20"
+	User time (seconds): 4466.74
+	System time (seconds): 503.74
+	Percent of CPU this job got: 1775%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:39.98
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4908400
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 15
+	Minor (reclaiming a frame) page faults: 1933928
+	Voluntary context switches: 194073
+	Involuntary context switches: 143201
+	Swaps: 0
+	File system inputs: 125116712
+	File system outputs: 98457016
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
