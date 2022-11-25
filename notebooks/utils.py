@@ -8,12 +8,14 @@ def parse_matrix(mat_file, cutoff = 0):
     dist_mat = []
     ani_cumulative = 0 
     ani_counts = 0
+    labels = []
     for line in open(mat_file,'r'):
         if count == 0:
             if 'mash' in mat_file:
                 length = int(line.rstrip())
             elif len(line.split('\t')) > 2:
                 length = len(line.split('\t'))
+                labels = line.split('\t')
             else:
                 length = int(line.split('\t')[-1].rstrip())
             dist_mat = np.zeros((length,length))
@@ -22,12 +24,17 @@ def parse_matrix(mat_file, cutoff = 0):
             dist_mat = np.zeros((length,length))
         if count != 0:
             spl = line.split()
-            ref = spl[0]
-            ref = ref.split("/")[-1]
+            if 'sour' in mat_file:
+                ref = labels[count-1].rstrip().split("/")[-1]
+                endpoints = range(0,count-1)
+            else:
+                ref = spl[0]
+                ref = ref.split("/")[-1]
+                endpoints = range(1,count)
             if ".fa" not in ref:
                 ref += ".fa"
             ref_vec.append(ref)
-            for i in range(1,count):
+            for i in endpoints:
                 try:
                     if "fastani" in mat_file:
                         ani = min(100,float(spl[i])+fastani_add)
@@ -35,11 +42,17 @@ def parse_matrix(mat_file, cutoff = 0):
                         ani = (1 - float(spl[i])) * 100
                     else:
                         ani = float(spl[i]) * 100
-                    dist_mat[count-1][i-1] = ani
+                    if 'sour' in mat_file:
+                        dist_mat[count-1][i] = ani
+                    else:
+                        dist_mat[count-1][i-1] = ani
                     ani_cumulative += ani
                     ani_counts += 1
                 except:
-                    dist_mat[count-1][i-1] = 0
+                    if 'sour' in mat_file:
+                        dist_mat[count-1][i] = 0
+                    else:
+                        dist_mat[count-1][i-1] = 0
 
         count+= 1
     for i in range(len(ref_vec)):
