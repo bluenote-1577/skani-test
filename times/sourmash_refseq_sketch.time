@@ -1,21 +1,21 @@
 	Command being timed: "parallel -j 20 -a ./sourmash_sketch_cmd.txt"
-	User time (seconds): 13013.42
-	System time (seconds): 3914.85
-	Percent of CPU this job got: 2234%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 12:37.68
+	User time (seconds): 11609.32
+	System time (seconds): 3510.01
+	Percent of CPU this job got: 2254%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 11:10.55
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 396380
+	Maximum resident set size (kbytes): 394412
 	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 241
-	Minor (reclaiming a frame) page faults: 117367138
-	Voluntary context switches: 199139
-	Involuntary context switches: 982833715
+	Major (requiring I/O) page faults: 396
+	Minor (reclaiming a frame) page faults: 114831939
+	Voluntary context switches: 221561
+	Involuntary context switches: 1230586608
 	Swaps: 0
-	File system inputs: 1927976
-	File system outputs: 6795280
+	File system inputs: 568
+	File system outputs: 7550000
 	Socket messages sent: 0
 	Socket messages received: 0
 	Signals delivered: 0
