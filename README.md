@@ -14,7 +14,7 @@ conda activate bioinf
 
 This will load a conda environment with all binaries available in PATH. 
 
-## Plotting scripts
+## Jupyter notebook plots
 
 See the `notebooks` folder for jupyter notebooks used to generate plots for the paper. All results are precomputed and stored in this repository.
 
