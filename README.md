@@ -14,12 +14,19 @@ conda activate bioinf
 
 This will load a conda environment with all binaries available in PATH. 
 
-## Plotting scripts
+## Jupyter notebook plots
 
-See the `notebooks` folder for jupyter notebooks used to generate plots for the paper. All results are precomputed and stored in this repository.
+All plots are stored in jupyter notebooks. 
+
+```
+cd notebooks
+jupyter notebook
+```
+
+Make sure that your current working directory is `skani-test/notebooks`.
 
 All notebooks can be re-run to generate the plots. Certain options can be changed in each notebook, e.g. N50 thresholds in the ANI plots, wall-clock
-vs cpu-clock. 
+vs cpu-clock. All results are pre-supplied; for re-benchmarking, see below. 
 
 ## Re-benchmarking
 
@@ -47,18 +54,28 @@ cp refseq/*/GCF_*/*.fna.gz references/refseq_all
 ```
 
 Then edit the time_results.sh file to modify the # of threads used, and where the /bin/time binary is located (usually /usr/bin/time or /bin/time). To regenerate
-all benchmarking files, run `./time_results.sh`. 
+all benchmarking files, run 
+```
+./time_results.sh
+```
+
+NOTE: Make sure to change the number of threads in `time_results.sh` (default: 20).
 
 ### Re-benchmarking distance matrix plot
 
-The 195 genomes in the species level bin used for the distance matrix is included in this repository. 
+The 195 genomes in the species level bin used for the distance matrix from Pasolli et al. is included in this repository.
 
-To re-generate the distance matrices and timing benchmarks, just run `./time_2328_results.sh`.
+To re-generate the distance matrices and timing benchmarks, just run 
+```
+./time_2328_results.sh
+```
+
+and change the number of threads (default: 1).
 
 ### Re-benchmarking Pasolli et al. cophenetic correlation, etc
 
 To reproduce the cophenetic correlation results and the ANI vs contamination/incompleteness regression plot, you need to download all genomes from Pasolli et al. 
-located at http://segatalab.cibio.unitn.it/data/Pasolli_et_al.html. Specifically the Part 1 - 5 files. 
+located at http://segatalab.cibio.unitn.it/data/Pasolli_et_al.html. Specifically the Part 1 - 5 files. These files are about 350 GB in total. 
 
 After downloading these files, extract them and place them in `references`. Then run
 
