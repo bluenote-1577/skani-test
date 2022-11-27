@@ -16,10 +16,17 @@ This will load a conda environment with all binaries available in PATH.
 
 ## Jupyter notebook plots
 
-See the `notebooks` folder for jupyter notebooks used to generate plots for the paper. All results are precomputed and stored in this repository.
+All plots are stored in jupyter notebooks. 
+
+```
+cd notebooks
+jupyter notebook
+```
+
+Make sure that your current working directory is `skani-test/notebooks`.
 
 All notebooks can be re-run to generate the plots. Certain options can be changed in each notebook, e.g. N50 thresholds in the ANI plots, wall-clock
-vs cpu-clock. 
+vs cpu-clock. All results are pre-supplied; for re-benchmarking, see below. 
 
 ## Re-benchmarking
 
