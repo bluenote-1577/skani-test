@@ -47,9 +47,10 @@ cp refseq/*/GCF_*/*.fna.gz references/refseq_all
 ```
 
 Then edit the time_results.sh file to modify the # of threads used, and where the /bin/time binary is located (usually /usr/bin/time or /bin/time). To regenerate
-all benchmarking files, run ```
+all benchmarking files, run 
+```
 ./time_results.sh
-````
+```
 
 NOTE: Make sure to change the number of threads in `time_results.sh` (default: 20).
 
