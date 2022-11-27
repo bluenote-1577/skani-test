@@ -47,13 +47,22 @@ cp refseq/*/GCF_*/*.fna.gz references/refseq_all
 ```
 
 Then edit the time_results.sh file to modify the # of threads used, and where the /bin/time binary is located (usually /usr/bin/time or /bin/time). To regenerate
-all benchmarking files, run `./time_results.sh`. 
+all benchmarking files, run ```
+./time_results.sh
+````
+
+NOTE: Make sure to change the number of threads in `time_results.sh` (default: 20).
 
 ### Re-benchmarking distance matrix plot
 
 The 195 genomes in the species level bin used for the distance matrix from Pasolli et al. is included in this repository.
 
-To re-generate the distance matrices and timing benchmarks, just run `./time_2328_results.sh`.
+To re-generate the distance matrices and timing benchmarks, just run 
+```
+./time_2328_results.sh
+```
+
+and change the number of threads (default: 1).
 
 ### Re-benchmarking Pasolli et al. cophenetic correlation, etc
 
