@@ -68,7 +68,7 @@ and change the number of threads (default: 1).
 ### Re-benchmarking Pasolli et al. cophenetic correlation, etc
 
 To reproduce the cophenetic correlation results and the ANI vs contamination/incompleteness regression plot, you need to download all genomes from Pasolli et al. 
-located at http://segatalab.cibio.unitn.it/data/Pasolli_et_al.html. Specifically the Part 1 - 5 files. 
+located at http://segatalab.cibio.unitn.it/data/Pasolli_et_al.html. Specifically the Part 1 - 5 files. These files are about 350 GB in total. 
 
 After downloading these files, extract them and place them in `references`. Then run
 
