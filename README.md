@@ -51,7 +51,7 @@ all benchmarking files, run `./time_results.sh`.
 
 ### Re-benchmarking distance matrix plot
 
-The 195 genomes in the species level bin used for the distance matrix is included in this repository. 
+The 195 genomes in the species level bin used for the distance matrix from Pasolli et al. is included in this repository.
 
 To re-generate the distance matrices and timing benchmarks, just run `./time_2328_results.sh`.
 
