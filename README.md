@@ -30,7 +30,18 @@ vs cpu-clock. All results are pre-supplied; for re-benchmarking, see below.
 
 ## Re-benchmarking
 
-### Re-benchmarking for database search
+### Quickly testing skani
+
+To quickly test skani for creating a clustered heatmap of ~200 genomes, do the following commands:
+
+```
+skani triangle 2328/* -t 20 > skani_triangle.txt
+python scripts/dist_mat.py skani_triangle.txt
+```
+
+This will take 3-4 seconds and you should see skani's distance matrix as a cluster heatmap appear. 
+
+### Re-benchmarking all methods for database search
 
 The data sets used for database search can get quite large, so are not included here by default. To get them, do the following:
 
@@ -61,7 +72,7 @@ all benchmarking files, run
 
 NOTE: Make sure to change the number of threads in `time_results.sh` (default: 20).
 
-### Re-benchmarking distance matrix plot
+### Re-benchmarking all methods for the distance matrix plot
 
 The 195 genomes in the species level bin used for the distance matrix from Pasolli et al. is included in this repository.
 
