@@ -38,7 +38,7 @@ The data sets used for database search can get quite large, so are not included 
 2. run the following commands to generate the 3 main data sets:
 ```
 # gtdb database
-wget https://data.ace.uq.edu.au/public/gtdb/data/releases/release207/207.0/genomic_files_reps/gtdb_genomes_reps_r207.tar.gz
+wget https://data.gtdb.ecogenomic.org/releases/release207/207.0/genomic_files_reps/gtdb_genomes_reps_r207.tar.gz
 tar -xf gtdb_genomes_reps_r207.tar.gz
 mv gtdb_genomes_reps_r207 references
 
