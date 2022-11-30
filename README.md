@@ -6,7 +6,7 @@ Benchmarking results and scripts for skani.
 1. conda
 
 ```sh
-git clone htttps://github.com/bluenote-1577/skani-test
+git clone https://github.com/bluenote-1577/skani-test
 cd skani-test
 conda env create -f env.yml
 conda activate bioinf
