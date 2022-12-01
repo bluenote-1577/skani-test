@@ -60,7 +60,7 @@ mv D3 references
 
 # refseq representative complete/chromosome genomes
 ncbi-genome-download --assembly-levels complete,chromosome --refseq-categories representative --formats fasta bacteria,viral,archaea,fungi
-mkdir refseq_all
+mkdir references/refseq_all
 cp refseq/*/GCF_*/*.fna.gz references/refseq_all
 ```
 
