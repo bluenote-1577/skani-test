@@ -12,27 +12,27 @@ INFO [thread 0], skch::Sketch::build, minimizers picked from reference = 8980293
 INFO [thread 0], skch::Sketch::index, unique minimizers = 3575139
 INFO [thread 0], skch::Sketch::computeFreqHist, Frequency histogram of minimizers = (1, 1468517) ... (8190, 1)
 INFO [thread 0], skch::Sketch::computeFreqHist, consider all minimizers during lookup.
-INFO [thread 0], skch::main, Time spent sketching the reference : 280.621 sec
+INFO [thread 0], skch::main, Time spent sketching the reference : 229.624 sec
 INFO [thread 7], skch::main, ready to exit the loop
-INFO [thread 5], skch::main, ready to exit the loop
-INFO [thread 1], skch::main, ready to exit the loop
-INFO [thread 17], skch::main, ready to exit the loop
+INFO [thread 11], skch::main, ready to exit the loop
 INFO [thread 2], skch::main, ready to exit the loop
-INFO [thread 0], skch::main, Time spent mapping fragments in query #1 : 380.278 sec
-INFO [thread 0], skch::main, Time spent post mapping : 0.179193 sec
+INFO [thread 4], skch::main, ready to exit the loop
+INFO [thread 16], skch::main, ready to exit the loop
+INFO [thread 0], skch::main, Time spent mapping fragments in query #1 : 276.373 sec
+INFO [thread 0], skch::main, Time spent post mapping : 0.185947 sec
 INFO [thread 0], skch::main, ready to exit the loop
-INFO [thread 13], skch::main, ready to exit the loop
+INFO [thread 6], skch::main, ready to exit the loop
+INFO [thread 17], skch::main, ready to exit the loop
+INFO [thread 5], skch::main, ready to exit the loop
 INFO [thread 3], skch::main, ready to exit the loop
+INFO [thread 1], skch::main, ready to exit the loop
+INFO [thread 19], skch::main, ready to exit the loop
+INFO [thread 15], skch::main, ready to exit the loop
+INFO [thread 10], skch::main, ready to exit the loop
 INFO [thread 12], skch::main, ready to exit the loop
 INFO [thread 9], skch::main, ready to exit the loop
-INFO [thread 11], skch::main, ready to exit the loop
-INFO [thread 15], skch::main, ready to exit the loop
-INFO [thread 14], skch::main, ready to exit the loop
-INFO [thread 19], skch::main, ready to exit the loop
+INFO [thread 13], skch::main, ready to exit the loop
 INFO [thread 8], skch::main, ready to exit the loop
-INFO [thread 4], skch::main, ready to exit the loop
-INFO [thread 10], skch::main, ready to exit the loop
-INFO [thread 6], skch::main, ready to exit the loop
-INFO [thread 16], skch::main, ready to exit the loop
 INFO [thread 18], skch::main, ready to exit the loop
+INFO [thread 14], skch::main, ready to exit the loop
 INFO, skch::main, parallel_for execution finished
