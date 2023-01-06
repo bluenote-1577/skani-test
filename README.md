@@ -39,7 +39,7 @@ skani triangle 2328/* -t 20 > skani_mat.txt
 python scripts/clustermap_triangle.py skani_mat.txt
 ```
 
-This will take 3-4 seconds and you should see skani's distance matrix as a cluster heatmap appear. 
+This will take < 10 seconds and you should see skani's distance matrix as a cluster heatmap appear. 
 
 ### Re-benchmarking all methods for database search
 
