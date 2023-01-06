@@ -1,5 +1,5 @@
 rm -r *_skani_sketch
-threads=20
+threads=50
 bintime_var=/bin/time
 mkdir refseq_sourmash_sketches
 rm ./e.coli-K12.fasta.sig
@@ -17,7 +17,7 @@ $bintime_var -v -o times/mash_D3_sketch.time mash sketch -o D3_mash_sketch ./ref
 $bintime_var -v -o times/mash_D3_dist.time mash dist D3_mash_sketch.msh data/e.coli-K12.fasta -p $threads > results/D3_mash.txt
 $bintime_var -v -o times/fastani_D3.time fastANI --rl ./d3_l.txt -q data/e.coli-K12.fasta -t $threads -o results/D3_fastani.txt  2> times/fastani_D3_log.txt
 
-#d3
+#refseq
 $bintime_var -v -o times/skani_refseq_sketch.time ./skani sketch -o refseq_skani_sketch ./references/refseq/* -t$threads
 $bintime_var -v -o times/skani_refseq_query.time ./skani triangle ./refseq_skani_sketch/* -o ./results/refseq_skani-variety.txt -t$threads
 $bintime_var -v -o times/mash_refseq_sketch.time mash sketch -o refseq_mash_sketch ./references/refseq/*.fna -p $threads 
