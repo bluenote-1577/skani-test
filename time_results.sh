@@ -9,8 +9,8 @@ $bintime_var -v -o times/skani_gtdb_sketch.time ./skani sketch -o gtdb_skani_ske
 $bintime_var -v -o times/skani_gtdb_query.time ./skani search -d gtdb_skani_sketch data/e.coli-K12.fasta -o results/gtdb_skani.txt -t$threads
 $bintime_var -v -o times/mash_gtdb_sketch.time mash sketch -o gtdb_mash_sketch -l gtdb_all.txt -p $threads 
 $bintime_var -v -o times/mash_gtdb_dist.time mash dist gtdb_mash_sketch.msh data/e.coli-K12.fasta -p $threads > results/gtdb_mash.txt
-
-#d3
+#
+##d3
 $bintime_var -v -o times/skani_D3_sketch.time ./skani sketch -o D3_skani_sketch ./references/D3/* -t$threads
 $bintime_var -v -o times/skani_D3_query.time ./skani search -d D3_skani_sketch data/e.coli-K12.fasta -o ./results/D3_skani.txt -t$threads
 $bintime_var -v -o times/mash_D3_sketch.time mash sketch -o D3_mash_sketch ./references/D3/*.fna -p $threads 
@@ -19,9 +19,10 @@ $bintime_var -v -o times/fastani_D3.time fastANI --rl ./d3_l.txt -q data/e.coli-
 
 #refseq
 $bintime_var -v -o times/skani_refseq_sketch.time ./skani sketch -o refseq_skani_sketch ./references/refseq/* -t$threads
-$bintime_var -v -o times/skani_refseq_query.time ./skani triangle ./refseq_skani_sketch/* -o ./results/refseq_skani-variety.txt -t$threads
+$bintime_var -v -o times/skani_refseq_query.time ./skani triangle ./refseq_skani_sketch/* -t$threads -E > ./results/refseq_skani-variety.txt 
+$bintime_var -v -o times/skani_refseq_search.time ./skani search ./refseq_skani_sketch/* -d refseq_skani_sketch -t$threads > temp.txt
 $bintime_var -v -o times/mash_refseq_sketch.time mash sketch -o refseq_mash_sketch ./references/refseq/*.fna -p $threads 
-$bintime_var -v -o times/mash_refseq_dist.time mash triangle refseq_mash_sketch.msh -E -p $threads > results/refseq_mash-variety.txt
+$bintime_var -v -o times/mash_refseq_dist.time mash triangle refseq_mash_sketch.msh -E -p $threads -d 0.5 > results/refseq_mash-variety.txt
 $bintime_var -v -o times/fastani_refseq.time fastANI --rl ./refseq.txt --ql ./refseq.txt -t $threads -o results/refseq_fastani-variety.txt  2> times/fastani_refseq_log.txt
 
 
