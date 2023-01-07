@@ -159,8 +159,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000951895.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000781915.LargeContigs.fna	99.4886	1394	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_38_34_GCA_000503375.LargeContigs.fna	99.4875	1385	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_164__4_5953081__GCA_000458495.LargeContigs.fna	99.4862	1476	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001576325.LargeContigs.fna	99.485	1464	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001575995.LargeContigs.fna	99.485	1424	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001576325.LargeContigs.fna	99.485	1464	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_1_110_08_S4_C3_GCA_000601235.LargeContigs.fna	99.4846	1430	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001575305.LargeContigs.fna	99.4843	1436	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001309735.LargeContigs.fna	99.4833	1443	1548
@@ -368,8 +368,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_6_319_05_S4_C2_GCA_00071309
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001575945.LargeContigs.fna	99.3012	1446	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001285925.LargeContigs.fna	99.3	195	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000768485.LargeContigs.fna	99.2941	1406	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001575675.LargeContigs.fna	99.2849	1430	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_1_176_05_S1_C3_GCA_000627945.LargeContigs.fna	99.2849	1430	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001575675.LargeContigs.fna	99.2849	1430	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_P0305260_2_GCA_000357705.LargeContigs.fna	99.2836	1396	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000776045.LargeContigs.fna	99.2813	1439	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001309485.LargeContigs.fna	99.2812	1375	1548
@@ -492,11 +492,11 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001268345.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001575695.LargeContigs.fna	99.0496	1378	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000773575.LargeContigs.fna	99.0494	1376	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_2730450_GCA_000356205.LargeContigs.fna	99.049	1372	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001269045.LargeContigs.fna	99.0482	1412	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001268385.LargeContigs.fna	99.0482	1412	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001269045.LargeContigs.fna	99.0482	1412	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_P0301904_3_GCA_000357645.LargeContigs.fna	99.0469	1393	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_AD30_GCA_000304255.LargeContigs.fna	99.0465	1428	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_AD30_GCA_001244915.LargeContigs.fna	99.0465	1428	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_AD30_GCA_000304255.LargeContigs.fna	99.0465	1428	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_FBP1_GCA_000511525.LargeContigs.fna	99.045	1396	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_180050_GCA_000356045.LargeContigs.fna	99.0446	1390	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_2871950_GCA_000355455.LargeContigs.fna	99.0426	1384	1548
@@ -1002,8 +1002,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_3_073_06_S4_C2_GCA_00070494
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O139_H28_str__E24377A_GCA_000832005.LargeContigs.fna	98.4184	1294	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001268305.LargeContigs.fna	98.4172	1396	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_113303_GCA_000485655.LargeContigs.fna	98.417	1381	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000797755.LargeContigs.fna	98.4169	1377	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001053065.LargeContigs.fna	98.4169	1400	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000797755.LargeContigs.fna	98.4169	1377	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000781075.LargeContigs.fna	98.4168	1391	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_402290_GCA_001265545.LargeContigs.fna	98.4166	1382	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000797955.LargeContigs.fna	98.4164	1384	1548
@@ -1043,8 +1043,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001421045.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000797935.LargeContigs.fna	98.407	1402	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_1_392_07_S4_C1_GCA_000713675.LargeContigs.fna	98.4066	1385	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O121_H19_str__2010C_4966_GCA_000617605.LargeContigs.fna	98.4065	1391	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001191455.LargeContigs.fna	98.4063	1381	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_P0304777_15_GCA_000358285.LargeContigs.fna	98.4063	1405	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001191455.LargeContigs.fna	98.4063	1381	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000779655.LargeContigs.fna	98.4058	1396	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001284185.LargeContigs.fna	98.4057	1408	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000831335.LargeContigs.fna	98.4051	1390	1548
@@ -1073,8 +1073,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_O121_H19_str__2009C_4659_GC
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O121_H19_str__2010C_4989_GCA_000614515.LargeContigs.fna	98.3996	1417	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000987545.LargeContigs.fna	98.3996	1346	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_Jurua_18_11_GCA_000355235.LargeContigs.fna	98.3996	1432	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000752975.LargeContigs.fna	98.399	1392	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_P0304777_1_GCA_000355095.LargeContigs.fna	98.399	1426	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000752975.LargeContigs.fna	98.399	1392	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_E1140_GCA_000622285.LargeContigs.fna	98.3989	1424	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001012175.LargeContigs.fna	98.3988	1393	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000966935.LargeContigs.fna	98.3988	1422	1548
@@ -1200,8 +1200,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_O121_H19_str__K5269_GCA_000
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000749525.LargeContigs.fna	98.3774	1416	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_907357_GCA_000485675.LargeContigs.fna	98.3772	1388	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_KTE210_GCA_000351145.LargeContigs.fna	98.3772	1415	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_O121_H19_str__F6714_GCA_000618165.LargeContigs.fna	98.3772	1401	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001269225.LargeContigs.fna	98.3772	1395	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_O121_H19_str__F6714_GCA_000618165.LargeContigs.fna	98.3772	1401	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O121_H19_str__2011C_3500_GCA_000616225.LargeContigs.fna	98.3771	1395	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_199900_1_GCA_000356125.LargeContigs.fna	98.3768	1407	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_NZ_CP011018.LargeContigs.fna	98.3767	1426	1548
@@ -1257,8 +1257,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_C_34666_GCA_000354355.Large
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000819345.LargeContigs.fna	98.3704	1355	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001268205.LargeContigs.fna	98.3702	1394	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_E1728_GCA_000622265.LargeContigs.fna	98.37	1394	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_MP021552_7_GCA_000354615.LargeContigs.fna	98.3698	1410	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O78_H12_str__00_3279_GCA_000701105.LargeContigs.fna	98.3698	1373	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_MP021552_7_GCA_000354615.LargeContigs.fna	98.3698	1410	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_3_267_03_S3_C2_GCA_000700345.LargeContigs.fna	98.3698	1404	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000752735.LargeContigs.fna	98.3698	1396	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000798155.LargeContigs.fna	98.3695	1396	1548
@@ -1375,8 +1375,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_C458_10_GCA_000446545.Large
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O104_H4_str__11_02913_GCA_000320115.LargeContigs.fna	98.3552	1428	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_MP020980_2_GCA_000355295.LargeContigs.fna	98.3551	1418	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000819015.LargeContigs.fna	98.355	1387	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_P0299917_7_GCA_000357365.LargeContigs.fna	98.3547	1382	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_FAP1_GCA_000511485.LargeContigs.fna	98.3547	1387	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_P0299917_7_GCA_000357365.LargeContigs.fna	98.3547	1382	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_MP021561_3_GCA_000356425.LargeContigs.fna	98.3547	1381	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001012355.LargeContigs.fna	98.3546	1390	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001262895.LargeContigs.fna	98.3545	1401	1548
@@ -1389,8 +1389,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001572365.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_P0299917_6_GCA_000357345.LargeContigs.fna	98.3534	1390	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001455035.LargeContigs.fna	98.3534	1376	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_113302_GCA_000488295.LargeContigs.fna	98.3534	1392	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000935505.LargeContigs.fna	98.3531	1361	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O121_H19_str__2011C_3108_GCA_000614215.LargeContigs.fna	98.3531	1391	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000935505.LargeContigs.fna	98.3531	1361	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001039075.LargeContigs.fna	98.3531	1378	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001571995.LargeContigs.fna	98.3527	1355	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_P0304777_5_GCA_000358335.LargeContigs.fna	98.3527	1298	1548
@@ -1413,8 +1413,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_DEC11D_GCA_000250175.LargeC
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_P0304816_1_GCA_000356565.LargeContigs.fna	98.3506	1442	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_NZ_CP009104.LargeContigs.fna	98.3504	1432	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_Jurua_20_10_GCA_000355255.LargeContigs.fna	98.3504	1416	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_ThroopD_GCA_000355115.LargeContigs.fna	98.35	1439	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_P0299438_6_GCA_000357225.LargeContigs.fna	98.35	1399	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_ThroopD_GCA_000355115.LargeContigs.fna	98.35	1439	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000798315.LargeContigs.fna	98.35	1375	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O26_H11_str__2010C_3051_GCA_000622675.LargeContigs.fna	98.3499	1379	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_1_110_08_S1_C2_GCA_000601275.LargeContigs.fna	98.3498	1408	1548
@@ -1572,8 +1572,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_O104_H4_str__Ec11_4987_GCA_
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O104_H4_str__11_02092_GCA_000320035.LargeContigs.fna	98.3305	1422	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000938995.LargeContigs.fna	98.3305	1425	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_E2265_GCA_000415485.LargeContigs.fna	98.3305	1397	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_O104_H4_str__11_03439_GCA_000320135.LargeContigs.fna	98.3303	1425	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000951955.LargeContigs.fna	98.3303	1434	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_O104_H4_str__11_03439_GCA_000320135.LargeContigs.fna	98.3303	1425	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_2872800_GCA_000354455.LargeContigs.fna	98.3302	1401	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001012265.LargeContigs.fna	98.3301	1376	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_P0302293_4_GCA_000356785.LargeContigs.fna	98.33	1405	1548
@@ -1604,8 +1604,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000939195.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000987555.LargeContigs.fna	98.3266	1296	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001283525.LargeContigs.fna	98.3265	1402	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001572445.LargeContigs.fna	98.3262	1384	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001284665.LargeContigs.fna	98.3262	1414	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_3_267_03_S4_C2_GCA_000700445.LargeContigs.fna	98.3262	1418	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001284665.LargeContigs.fna	98.3262	1414	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_P0302308_13_GCA_000358975.LargeContigs.fna	98.3262	1338	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O177_NM_str__2010C_4558_GCA_000617785.LargeContigs.fna	98.3262	1400	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001265175.LargeContigs.fna	98.3261	1381	1548
@@ -1757,8 +1757,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_str__Deng_GCA_001447405.Lar
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001268905.LargeContigs.fna	98.3068	1411	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_Envira_10_1_GCA_000355195.LargeContigs.fna	98.3068	1448	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_C40_11_GCA_000446505.LargeContigs.fna	98.3067	1386	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001572535.LargeContigs.fna	98.3062	1380	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_2854350_GCA_000356845.LargeContigs.fna	98.3062	1386	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001572535.LargeContigs.fna	98.3062	1380	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001572615.LargeContigs.fna	98.306	1342	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001286405.LargeContigs.fna	98.3057	1377	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O104_H4_str__11_3677_GCA_000235205.LargeContigs.fna	98.3056	1422	1548
@@ -1922,8 +1922,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001440725.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O26_H11_str__2011C_3387_GCA_000622815.LargeContigs.fna	98.2829	1405	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O26_H11_str__CFSAN001629_GCA_000313405.LargeContigs.fna	98.2829	1393	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000812305.LargeContigs.fna	98.2828	1382	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_DEC12B_GCA_000250235.LargeContigs.fna	98.2827	1419	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O111_NM_str__2010C_3053_GCA_000632615.LargeContigs.fna	98.2827	1378	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_DEC12B_GCA_000250235.LargeContigs.fna	98.2827	1419	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O104_H4_str__ON2010_GCA_000258635.LargeContigs.fna	98.2826	1426	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_TOP2515_GCA_000397585.LargeContigs.fna	98.2822	438	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_6_319_05_S1_C3_GCA_000713015.LargeContigs.fna	98.2822	1424	1548
@@ -2163,10 +2163,10 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_UMEA_3671_1_GCA_000461515.L
 data/e.coli-K12.fasta	references/D3/Shigella_flexneri_Shi05SX04_GCA_000565905.LargeContigs.fna	97.9171	1192	1548
 data/e.coli-K12.fasta	references/D3/Shigella_flexneri_Shi06HN344_GCA_000566465.LargeContigs.fna	97.9163	1175	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_C161_11_GCA_000446195.LargeContigs.fna	97.9157	1360	1548
-data/e.coli-K12.fasta	references/D3/Shigella_flexneri_2a_GCA_001017155.LargeContigs.fna	97.9156	1188	1548
 data/e.coli-K12.fasta	references/D3/Shigella_flexneri_2a_GCA_001017305.LargeContigs.fna	97.9156	1182	1548
-data/e.coli-K12.fasta	references/D3/Shigella_flexneri_2001042_GCA_000566125.LargeContigs.fna	97.9149	1190	1548
+data/e.coli-K12.fasta	references/D3/Shigella_flexneri_2a_GCA_001017155.LargeContigs.fna	97.9156	1188	1548
 data/e.coli-K12.fasta	references/D3/Shigella_flexneri_Shi06HN250_GCA_000565725.LargeContigs.fna	97.9149	1189	1548
+data/e.coli-K12.fasta	references/D3/Shigella_flexneri_2001042_GCA_000566125.LargeContigs.fna	97.9149	1190	1548
 data/e.coli-K12.fasta	references/D3/Shigella_flexneri_51581_GCA_000566025.LargeContigs.fna	97.9148	1195	1548
 data/e.coli-K12.fasta	references/D3/Shigella_flexneri_Shi06SX36_GCA_000565865.LargeContigs.fna	97.9109	1188	1548
 data/e.coli-K12.fasta	references/D3/Shigella_flexneri_Shi06HN023_GCA_000565625.LargeContigs.fna	97.9101	1185	1548
@@ -2339,8 +2339,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_O157_H7_str__2011EL_2097_GC
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001281725.LargeContigs.fna	97.8069	1376	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000935075.LargeContigs.fna	97.8066	1380	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O157_H7_str__08_3037_GCA_000616585.LargeContigs.fna	97.8065	1374	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_O145_H28_str__RM12581_NZ_CP007136.LargeContigs.fna	97.8063	1403	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O145_H28_str__RM13514_NZ_CP006027.LargeContigs.fna	97.8063	1403	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_O145_H28_str__RM12581_NZ_CP007136.LargeContigs.fna	97.8063	1403	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O157_H7_str__F8092B_GCA_000513035.LargeContigs.fna	97.8058	1394	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O157_H7_str__EC4191_GCA_000178755.LargeContigs.fna	97.8058	1352	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_DEC5E_GCA_000249575.LargeContigs.fna	97.8056	1413	1548
@@ -2484,8 +2484,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_O157_H7_str__2011EL_2109_GC
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O157_H7_str__K2188_GCA_000618485.LargeContigs.fna	97.7732	1378	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001619085.LargeContigs.fna	97.7731	1311	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_99_1781_GCA_000335135.LargeContigs.fna	97.773	1361	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001619135.LargeContigs.fna	97.7729	1323	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_O157_H7_str__07_3091_GCA_000617665.LargeContigs.fna	97.7729	1384	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001619135.LargeContigs.fna	97.7729	1323	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_PA2_GCA_000335355.LargeContigs.fna	97.7726	1368	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_DEC3E_GCA_000249335.LargeContigs.fna	97.7723	1397	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_14A_GCA_000462225.LargeContigs.fna	97.7723	1383	1548
@@ -2903,8 +2903,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_042_NC_017626.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_KTE50_GCA_000352325.LargeContigs.fna	97.3211	1409	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_KTE128_GCA_000326245.LargeContigs.fna	97.3195	1354	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001030595.LargeContigs.fna	97.3193	1418	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_KTE105_GCA_000326145.LargeContigs.fna	97.3192	1368	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_KTE177_GCA_000326785.LargeContigs.fna	97.3192	1368	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_KTE105_GCA_000326145.LargeContigs.fna	97.3192	1368	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_183__4_3205932__GCA_000458725.LargeContigs.fna	97.3153	1406	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_206__4_3128229__GCA_000459175.LargeContigs.fna	97.3152	1411	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_45__4_3129918__GCA_000456725.LargeContigs.fna	97.3148	1419	1548
@@ -3473,8 +3473,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000781515.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_5__4_7148410__GCA_000456085.LargeContigs.fna	96.752	1345	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_59__4_1119338__GCA_000456885.LargeContigs.fna	96.7517	1361	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000779255.LargeContigs.fna	96.7516	1322	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000807565.LargeContigs.fna	96.7515	1320	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001640205.LargeContigs.fna	96.7515	1319	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000807565.LargeContigs.fna	96.7515	1320	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_DEC2A_GCA_000249155.LargeContigs.fna	96.7515	1325	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_172__4_3248542__GCA_000458605.LargeContigs.fna	96.7514	1350	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_DSM_30083___JCM_1649___ATCC_11775_GCA_000690815.LargeContigs.fna	96.7506	1363	1548
@@ -3535,8 +3535,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001571745.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000781485.LargeContigs.fna	96.7437	1323	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_2_460_02_S1_C2_GCA_000713865.LargeContigs.fna	96.7436	1335	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_NZ_CP012625.LargeContigs.fna	96.7435	1364	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000778485.LargeContigs.fna	96.7434	1318	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001561215.LargeContigs.fna	96.7434	1328	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000778485.LargeContigs.fna	96.7434	1318	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000780395.LargeContigs.fna	96.7434	1339	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001518355.LargeContigs.fna	96.7432	1262	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000779745.LargeContigs.fna	96.7431	1339	1548
@@ -3596,8 +3596,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000776925.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001030325.LargeContigs.fna	96.7352	1360	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_907446_GCA_000488335.LargeContigs.fna	96.7351	1330	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_C887_10_GCA_000447065.LargeContigs.fna	96.735	1315	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_171__4_3191958__GCA_000458575.LargeContigs.fna	96.7348	1334	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_BIDMC_20A_GCA_000522145.LargeContigs.fna	96.7348	1355	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_171__4_3191958__GCA_000458575.LargeContigs.fna	96.7348	1334	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_908624_GCA_000488695.LargeContigs.fna	96.7348	1325	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001638055.LargeContigs.fna	96.7347	1309	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_KTE65_GCA_000352405.LargeContigs.fna	96.7345	1345	1548
@@ -3651,8 +3651,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001521015.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001055105.LargeContigs.fna	96.7293	1263	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_77__4_2605759__GCA_000457085.LargeContigs.fna	96.7292	1328	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_NZ_CP012635.LargeContigs.fna	96.7289	1353	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001058275.LargeContigs.fna	96.7289	1296	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001283905.LargeContigs.fna	96.7289	723	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001058275.LargeContigs.fna	96.7289	1296	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001519995.LargeContigs.fna	96.7289	1269	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001284645.LargeContigs.fna	96.7288	123	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_MS_153_1_GCA_000164435.LargeContigs.fna	96.7287	1298	1548
@@ -3863,8 +3863,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_TOP2652_GCA_000397625.Large
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000776215.LargeContigs.fna	96.7059	1309	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_UMEA_3208_1_GCA_000460815.LargeContigs.fna	96.7058	1344	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001059575.LargeContigs.fna	96.7057	1289	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_NZ_CP010876.LargeContigs.fna	96.7055	1343	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_NZ_CP013835.LargeContigs.fna	96.7055	1356	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_NZ_CP010876.LargeContigs.fna	96.7055	1343	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_21__4_4517873__GCA_000456305.LargeContigs.fna	96.7047	1347	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_KOEGE_61__174a__GCA_000459775.LargeContigs.fna	96.7047	1345	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000777625.LargeContigs.fna	96.7046	1341	1548
@@ -4021,8 +4021,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001637885.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001521225.LargeContigs.fna	96.6839	1295	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_8_415_05_S4_C3_GCA_000711435.LargeContigs.fna	96.6837	1332	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000778955.LargeContigs.fna	96.6837	1330	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_202__4_3163997__GCA_000459095.LargeContigs.fna	96.6832	1331	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000776655.LargeContigs.fna	96.6832	1340	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_202__4_3163997__GCA_000459095.LargeContigs.fna	96.6832	1331	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000776635.LargeContigs.fna	96.6832	1332	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_3003_GCA_000194665.LargeContigs.fna	96.683	1339	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001571575.LargeContigs.fna	96.683	1326	1548
@@ -4172,8 +4172,8 @@ data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001561445.LargeContigs.
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_198__4_3206106__GCA_000459015.LargeContigs.fna	96.6448	1344	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_KTE55_GCA_000351505.LargeContigs.fna	96.6445	1340	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_001519115.LargeContigs.fna	96.6443	1303	1548
-data/e.coli-K12.fasta	references/D3/Escherichia_coli_8_415_05_S4_C1_GCA_000711455.LargeContigs.fna	96.6441	1334	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000752555.LargeContigs.fna	96.6441	1241	1548
+data/e.coli-K12.fasta	references/D3/Escherichia_coli_8_415_05_S4_C1_GCA_000711455.LargeContigs.fna	96.6441	1334	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_DEC1D_GCA_000249115.LargeContigs.fna	96.6441	1328	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_GCA_000951745.LargeContigs.fna	96.6439	1311	1548
 data/e.coli-K12.fasta	references/D3/Escherichia_coli_HVH_80__4_2428830__GCA_000457145.LargeContigs.fna	96.6438	1349	1548

@@ -3,36 +3,66 @@ Reference = [references/D3/Escherichia_coli_042_NC_017626.LargeContigs.fna, refe
 Query = [data/e.coli-K12.fasta]
 Kmer size = 16
 Fragment length = 3000
-Threads = 20
+Threads = 50
 ANI output file = results/D3_fastani.txt
 >>>>>>>>>>>>>>>>>>
-INFO [thread 0], skch::main, Count of threads executing parallel_for : 20
+INFO [thread 0], skch::main, Count of threads executing parallel_for : 50
 INFO [thread 0], skch::Sketch::build, window size for minimizer sampling  = 24
-INFO [thread 0], skch::Sketch::build, minimizers picked from reference = 89802934
-INFO [thread 0], skch::Sketch::index, unique minimizers = 3575139
-INFO [thread 0], skch::Sketch::computeFreqHist, Frequency histogram of minimizers = (1, 1468517) ... (8190, 1)
+INFO [thread 0], skch::Sketch::build, minimizers picked from reference = 36410368
+INFO [thread 0], skch::Sketch::index, unique minimizers = 2643353
+INFO [thread 0], skch::Sketch::computeFreqHist, Frequency histogram of minimizers = (1, 1098971) ... (3293, 1)
 INFO [thread 0], skch::Sketch::computeFreqHist, consider all minimizers during lookup.
-INFO [thread 0], skch::main, Time spent sketching the reference : 229.624 sec
-INFO [thread 7], skch::main, ready to exit the loop
-INFO [thread 11], skch::main, ready to exit the loop
-INFO [thread 2], skch::main, ready to exit the loop
-INFO [thread 4], skch::main, ready to exit the loop
-INFO [thread 16], skch::main, ready to exit the loop
-INFO [thread 0], skch::main, Time spent mapping fragments in query #1 : 276.373 sec
-INFO [thread 0], skch::main, Time spent post mapping : 0.185947 sec
-INFO [thread 0], skch::main, ready to exit the loop
-INFO [thread 6], skch::main, ready to exit the loop
-INFO [thread 17], skch::main, ready to exit the loop
-INFO [thread 5], skch::main, ready to exit the loop
-INFO [thread 3], skch::main, ready to exit the loop
-INFO [thread 1], skch::main, ready to exit the loop
-INFO [thread 19], skch::main, ready to exit the loop
-INFO [thread 15], skch::main, ready to exit the loop
-INFO [thread 10], skch::main, ready to exit the loop
+INFO [thread 0], skch::main, Time spent sketching the reference : 53.7175 sec
+INFO [thread 41], skch::main, ready to exit the loop
 INFO [thread 12], skch::main, ready to exit the loop
+INFO [thread 49], skch::main, ready to exit the loop
+INFO [thread 42], skch::main, ready to exit the loop
+INFO [thread 38], skch::main, ready to exit the loop
+INFO [thread 27], skch::main, ready to exit the loop
+INFO [thread 2], skch::main, ready to exit the loop
+INFO [thread 43], skch::main, ready to exit the loop
+INFO [thread 20], skch::main, ready to exit the loop
+INFO [thread 23], skch::main, ready to exit the loop
+INFO [thread 39], skch::main, ready to exit the loop
+INFO [thread 32], skch::main, ready to exit the loop
+INFO [thread 33], skch::main, ready to exit the loop
 INFO [thread 9], skch::main, ready to exit the loop
+INFO [thread 37], skch::main, ready to exit the loop
 INFO [thread 13], skch::main, ready to exit the loop
-INFO [thread 8], skch::main, ready to exit the loop
-INFO [thread 18], skch::main, ready to exit the loop
 INFO [thread 14], skch::main, ready to exit the loop
+INFO [thread 30], skch::main, ready to exit the loop
+INFO [thread 3], skch::main, ready to exit the loop
+INFO [thread 47], skch::main, ready to exit the loop
+INFO [thread 6], skch::main, ready to exit the loop
+INFO [thread 45], skch::main, ready to exit the loop
+INFO [thread 44], skch::main, ready to exit the loop
+INFO [thread 36], skch::main, ready to exit the loop
+INFO [thread 18], skch::main, ready to exit the loop
+INFO [thread 17], skch::main, ready to exit the loop
+INFO [thread 25], skch::main, ready to exit the loop
+INFO [thread 4], skch::main, ready to exit the loop
+INFO [thread 10], skch::main, ready to exit the loop
+INFO [thread 7], skch::main, ready to exit the loop
+INFO [thread 16], skch::main, ready to exit the loop
+INFO [thread 34], skch::main, ready to exit the loop
+INFO [thread 8], skch::main, ready to exit the loop
+INFO [thread 40], skch::main, ready to exit the loop
+INFO [thread 5], skch::main, ready to exit the loop
+INFO [thread 46], skch::main, ready to exit the loop
+INFO [thread 15], skch::main, ready to exit the loop
+INFO [thread 1], skch::main, ready to exit the loop
+INFO [thread 26], skch::main, ready to exit the loop
+INFO [thread 31], skch::main, ready to exit the loop
+INFO [thread 29], skch::main, ready to exit the loop
+INFO [thread 35], skch::main, ready to exit the loop
+INFO [thread 19], skch::main, ready to exit the loop
+INFO [thread 21], skch::main, ready to exit the loop
+INFO [thread 48], skch::main, ready to exit the loop
+INFO [thread 24], skch::main, ready to exit the loop
+INFO [thread 28], skch::main, ready to exit the loop
+INFO [thread 22], skch::main, ready to exit the loop
+INFO [thread 11], skch::main, ready to exit the loop
+INFO [thread 0], skch::main, Time spent mapping fragments in query #1 : 86.5 sec
+INFO [thread 0], skch::main, Time spent post mapping : 0.037816 sec
+INFO [thread 0], skch::main, ready to exit the loop
 INFO, skch::main, parallel_for execution finished
