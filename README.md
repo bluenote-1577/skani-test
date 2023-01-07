@@ -39,7 +39,7 @@ skani triangle 2328/* -t 20 > skani_mat.txt
 python scripts/clustermap_triangle.py skani_mat.txt
 ```
 
-This will take 3-4 seconds and you should see skani's distance matrix as a cluster heatmap appear. 
+This will take < 10 seconds and you should see skani's distance matrix as a cluster heatmap appear. 
 
 ### Re-benchmarking all methods for database search
 
@@ -60,8 +60,8 @@ mv D3 references
 
 # refseq representative complete/chromosome genomes
 ncbi-genome-download --assembly-levels complete,chromosome --refseq-categories representative --formats fasta bacteria,viral,archaea,fungi
-mkdir references/refseq_all
-cp refseq/*/GCF_*/*.fna.gz references/refseq_all
+mkdir references/refseq
+cp refseq/*/GCF_*/*.fna.gz references/refseq
 ```
 
 Then edit the time_results.sh file to modify the # of threads used, and where the /bin/time binary is located (usually /usr/bin/time or /bin/time). To regenerate
