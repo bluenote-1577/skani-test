@@ -35,7 +35,8 @@ vs cpu-clock. All results are pre-supplied; for re-benchmarking, see below.
 To quickly test skani for creating a clustered heatmap of ~200 genomes, do the following commands:
 
 ```
-skani triangle 2328/* -t 20 > skani_mat.txt
+# make sure you're in the skani-test directory 
+./skani triangle 2328/* -t 20 > skani_mat.txt
 python scripts/clustermap_triangle.py skani_mat.txt
 ```
 
