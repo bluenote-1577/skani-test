@@ -19,6 +19,7 @@ This will load a conda environment with all binaries available in PATH.
 All plots are stored in jupyter notebooks. 
 
 ```
+#you may need to install jupyter notebook 
 cd notebooks
 jupyter notebook
 ```
