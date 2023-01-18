@@ -3,7 +3,7 @@
 Benchmarking results and scripts for skani.
 
 ### Requirements:
-1. conda
+1. [conda](https://www.anaconda.com/)
 
 ```sh
 git clone https://github.com/bluenote-1577/skani-test
