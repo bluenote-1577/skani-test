@@ -3,7 +3,7 @@
 Benchmarking results and scripts for skani.
 
 ### Requirements:
-1. conda
+1. [conda](https://www.anaconda.com/)
 
 ```sh
 git clone https://github.com/bluenote-1577/skani-test
@@ -19,6 +19,7 @@ This will load a conda environment with all binaries available in PATH.
 All plots are stored in jupyter notebooks. 
 
 ```
+#you may need to install jupyter notebook 
 cd notebooks
 jupyter notebook
 ```
@@ -35,7 +36,8 @@ vs cpu-clock. All results are pre-supplied; for re-benchmarking, see below.
 To quickly test skani for creating a clustered heatmap of ~200 genomes, do the following commands:
 
 ```
-skani triangle 2328/* -t 20 > skani_mat.txt
+# make sure you're in the skani-test directory 
+./skani triangle 2328/* -t 20 > skani_mat.txt
 python scripts/clustermap_triangle.py skani_mat.txt
 ```
 
