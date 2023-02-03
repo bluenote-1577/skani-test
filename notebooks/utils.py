@@ -41,7 +41,10 @@ def parse_matrix(mat_file, cutoff = 0):
                     elif "mash" in mat_file:
                         ani = (1 - float(spl[i])) * 100
                     else:
-                        ani = float(spl[i]) * 100
+                        if float(spl[i]) <= 1:
+                            ani = float(spl[i]) * 100
+                        else:
+                            ani = float(spl[i])
                     if 'sour' in mat_file:
                         dist_mat[count-1][i] = ani
                     else:
@@ -83,3 +86,18 @@ def parse_dist_file(dist_file):
             dist_dict[(main_ref,other_ref)] = float(spl[2]) * 100
 
     return dist_dict
+
+def parse_skani_dist_file(dist_file):
+    dist_dict = dict()
+    for line in open(dist_file, 'r'):
+        spl = line.split()
+        main_ref = spl[0]
+        main_ref = main_ref.split("/")[-1]
+        other_ref = spl[1]
+        other_ref = other_ref.split("/")[-1]
+        if "ANI" in line:
+            continue
+        dist_dict[(main_ref,other_ref)] = [float(spl[2]), float(spl[3]), float(spl[4]), float(spl[-5]), float(spl[-4]), float(spl[-3]), float(spl[-2]), float(spl[-1])]
+    return dist_dict
+
+

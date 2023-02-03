@@ -1,18 +1,18 @@
 	Command being timed: "./skani search -d D3_skani_sketch data/e.coli-K12.fasta -o ./results/D3_skani.txt -t50"
-	User time (seconds): 136.75
-	System time (seconds): 2.27
-	Percent of CPU this job got: 4020%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.45
+	User time (seconds): 158.38
+	System time (seconds): 2.10
+	Percent of CPU this job got: 3842%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.17
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 1204024
+	Maximum resident set size (kbytes): 1291784
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 148141
-	Voluntary context switches: 2529
-	Involuntary context switches: 275
+	Minor (reclaiming a frame) page faults: 99446
+	Voluntary context switches: 2280
+	Involuntary context switches: 298
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 2392
