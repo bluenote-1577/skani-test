@@ -1,0 +1,27 @@
+26
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/CM_cf__CF_TNFC048IS_t2M15__bin.15.fa
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/CM_periimplantitis__SP_162SPI_T016__bin.27.fa	85.76
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/CM_periimplantitis__SP_162SPT_T016__bin.5.fa	81.12	68.32
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/CM_periimplantitis__SP_191SPI_T016__bin.15.fa	84.13	67.79	74.78
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/CM_periimplantitis__SP_386SPT_T016__bin.7.fa	82.12	73.53	75.56	89.58
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS011098__bin.21.fa	85.58	65.63	76.55	88.10	65.36
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS013949__bin.24.fa	86.51	70.74	78.52	87.34	68.36	87.13
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS015278__bin.1.fa	86.42	62.92	72.51	80.88	62.83	81.08	59.02
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS015378__bin.8.fa	88.27	89.66	75.16	91.53	76.18	84.05	62.30	72.38
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS015650__bin.12.fa	83.69	69.35	76.54	87.64	66.15	86.45	64.92	72.95	57.98
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS015803__bin.41.fa	75.50	58.74	70.22	78.01	59.32	76.65	57.64	68.27	50.12	69.40
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS015947__bin.12.fa	81.24	61.83	72.56	81.91	61.31	84.38	57.18	69.59	50.07	72.12	60.20
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS016092__bin.6.fa	79.77	61.32	71.75	82.02	58.82	79.85	62.05	68.30	50.03	73.62	54.52	65.34
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS016541__bin.4.fa	89.90	88.45	76.27	91.45	76.98	86.53	64.61	74.33	84.08	81.04	63.80	70.40	85.38
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS018443__bin.44.fa	82.02	62.51	74.66	83.25	62.45	83.29	58.58	71.63	51.53	72.99	58.24	69.68	82.74	57.18
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS019129__bin.14.fa	82.80	65.72	75.14	84.71	63.53	83.91	68.42	71.66	53.95	78.43	58.74	69.26	92.99	59.11	80.08
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS019225__bin.13.fa	81.51	70.12	81.59	83.33	60.48	80.75	57.19	68.68	53.46	72.14	56.86	67.32	84.02	57.10	77.19	75.10
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS019591__bin.13.fa	89.23	86.17	77.99	91.23	76.07	88.65	65.06	76.95	78.52	83.05	64.17	73.97	86.81	83.71	85.74	81.51	86.89
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS022602__bin.29.fa	85.00	66.52	78.53	83.82	64.98	85.80	63.66	75.88	51.49	75.40	61.18	73.14	87.10	57.09	84.92	80.58	84.43	58.80
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS024021__bin.12.fa	84.62	88.75	75.43	93.94	76.45	85.40	63.07	72.16	80.21	79.55	60.00	69.78	85.66	85.37	80.75	81.03	87.41	76.75	59.52
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS024561__bin.20.fa	83.59	64.34	75.62	87.70	66.21	86.38	61.24	72.93	54.50	73.99	60.77	71.77	84.17	60.16	82.38	78.53	82.92	59.86	61.46	61.27
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS049268__bin.66.fa	81.92	62.55	72.96	84.08	63.22	87.18	59.56	69.72	52.50	73.41	57.89	69.51	85.46	57.65	80.19	77.72	82.27	58.68	60.04	59.18	77.88
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS053630__bin.11.fa	85.75	64.21	77.05	87.33	64.97	94.34	61.47	73.53	51.88	76.51	60.05	76.10	85.74	58.24	84.49	79.41	84.85	59.37	62.92	58.29	81.25	87.96
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS058808__bin.21.fa	77.46	58.83	69.34	78.29	57.73	77.91	57.33	67.93	46.68	72.97	54.22	64.37	83.38	52.79	76.58	75.83	76.97	52.90	57.01	53.43	72.25	75.89	71.88
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/HMP_2012__SRS065310__bin.13.fa	85.15	68.44	78.84	90.89	68.43	89.01	62.01	73.23	59.26	77.82	62.66	73.51	87.40	61.83	83.84	80.02	86.97	60.87	63.75	63.95	84.07	86.42	80.40	84.87
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/8047/QinJ_2012__T2D-092__bin.6.fa	82.68	63.89	73.42	84.39	62.38	84.19	61.15	71.09	51.60	77.19	56.47	70.10	88.06	56.54	80.17	80.47	82.40	57.63	61.01	58.86	76.72	82.29	78.29	86.50	80.07
