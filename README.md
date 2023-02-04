@@ -27,7 +27,7 @@ jupyter notebook
 Make sure that your current working directory is `skani-test/notebooks`.
 
 All notebooks can be re-run to generate the plots. Certain options can be changed in each notebook, e.g. N50 thresholds in the ANI plots, wall-clock
-vs cpu-clock. All results are pre-supplied; for re-benchmarking, see below. 
+vs cpu-clock. All results are pre-supplied; for re-benchmarking, see below. For the ani-divergence-learn.ipynb and ANI_violin_supp_diff.ipynb notebooks, you will have to run `gzip -d` all files in the supp_results folder.
 
 ## Re-benchmarking
 
@@ -95,3 +95,27 @@ After downloading these files, extract them and place them in `references`. Then
 `snakemake -c40 -s Snakefile.smk -R ani_folders_25_to_50_files`
 
 This uses 40 threads and will take a day or two. 
+
+## Re-benchmarking Soil, Ocean eukaryotic, archaea MAGs.
+
+We describe how to obtain the datasets below. 
+
+### Ocean eukaryotic MAGs
+
+We use eukaryotic ocean MAGs from two studies. 
+
+"Eukaryotic genomes from a global metagenomic dataset illuminate trophic modes and biogeography of ocean plankton" - Alexander et al (2021). Also known as the TOPAZ MAGs. Available at: https://osf.io/gm564/.
+
+"Functional repertoire convergence of distantly related eukaryotic plankton lineages abundant in the sunlit ocean" - Delmont et al (2022). MAGs are available at https://www.genoscope.cns.fr/tara/localdata/data/SMAGs-v1/SMAGs_contigs_individual.fna.tar.gz.
+
+### OceanDNA archaea MAGs 
+
+We use archaea MAGs from the study "The OceanDNA MAG catalog contains over 50,000 prokaryotic genomes originated from various marine environments" by Nishimura and Yoshizawa (2022). We use the non-representative archaea mags available here: https://doi.org/10.6084/m9.figshare.c.5564844.v1. The archaea mags are labelled OceanDNA-a*.fa.
+
+### Soil MAGs 
+
+We use soil MAGs from the study "Consistent Metagenome-Derived Metrics Verify and Delineate Bacterial Species Boundaries" by Olm et al (2020). The soil MAGs are avilable here: https://figshare.com/collections/Genomes_for_consistent_metagenome-derived_metrics_verify_and_define_bacterial_species_boundaries/4508162/1
+
+### Regeneration
+
+We run the exact same commands as in the Pasolli et al dataset on these 4 sets of MAGs (two eukaryotic sets) to generate the files in the supp_results folder. See the snakemake file for reference. 
