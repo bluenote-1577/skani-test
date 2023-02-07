@@ -1,29 +1,29 @@
 28
 /home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.16.ST__bin.19.fa
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.22.ST__bin.54.fa	70.95
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.26.ST__bin.32.fa	63.78	64.18
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.27.ST__bin.64.fa	65.68	67.13	92.06
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.4.ST__bin.64.fa	64.40	73.12	89.03	92.48
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.5.ST__bin.28.fa	67.63	72.62	93.17	96.54	92.42
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.52.ST__bin.84.fa	67.97	71.99	91.97	94.74	94.23	96.41
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.7.ST__bin.59.fa	63.25	67.12	89.62	88.43	86.17	88.42	86.78
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.37.ST__bin.49.fa	64.52	64.48	90.88	87.24	79.44	81.99	81.08	81.92
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.39.ST__bin.7.fa	64.19	66.35	91.17	93.87	85.80	89.58	86.04	85.17	83.44
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.44.ST__bin.90.fa	67.37	69.44	91.21	94.49	86.91	88.80	87.22	85.62	85.17	93.98
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.45.ST__bin.27.fa	68.47	72.37	93.10	95.15	91.42	96.48	93.41	92.77	85.85	97.69	92.49
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.48.ST__bin.36.fa	66.85	70.51	91.67	95.55	90.12	90.40	89.37	88.94	85.32	94.73	93.68	86.78
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.49.ST__bin.71.fa	61.63	61.33	89.43	87.31	78.38	79.17	78.07	80.46	83.21	85.18	84.72	76.06	85.86
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.58.ST__bin.20.fa	69.08	73.57	91.66	94.84	94.04	97.46	99.65	92.41	85.53	96.23	93.26	93.02	92.00	90.24
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.18.ST__bin.8.fa	65.47	66.58	89.80	93.92	85.84	89.44	88.21	85.73	84.56	93.93	91.67	85.62	88.54	89.09	83.18
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.21.ST__bin.22.fa	61.72	60.48	90.62	85.61	78.77	81.61	80.47	82.30	84.12	86.31	83.75	78.94	81.09	88.78	75.38	89.43
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.36.ST__bin.14.fa	70.56	74.32	91.58	94.05	90.48	94.15	92.02	90.24	87.11	96.74	94.45	92.81	90.70	89.77	87.08	94.68	93.77
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.38.ST__bin.27.fa	65.13	62.23	88.89	85.78	77.43	79.90	78.62	81.42	83.21	84.07	82.88	77.38	81.71	89.60	74.28	85.20	91.03	77.87
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.39.ST__bin.103.fa	69.30	72.23	92.45	94.18	90.84	96.58	93.98	93.18	88.77	94.84	93.71	92.62	92.12	90.18	88.63	96.45	95.68	90.99	71.45
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.4.ST__bin.7.fa	62.19	62.72	88.06	88.98	81.97	83.68	82.99	83.91	82.46	90.21	86.97	81.82	84.18	87.05	78.19	92.46	92.93	79.97	68.32	78.12
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.42.ST__bin.27.fa	71.07	71.84	93.17	93.73	87.28	89.05	87.21	88.22	87.69	92.97	92.60	86.01	91.73	95.49	83.29	93.51	94.40	86.09	72.68	83.81	94.41
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.11.ST__bin.73.fa	67.36	70.17	91.53	92.98	90.14	93.00	91.92	90.50	84.74	93.94	91.72	90.68	91.47	90.44	86.48	94.17	93.78	88.41	70.49	87.42	94.05	67.78
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.13.ST__bin.51.fa	67.94	71.06	91.76	94.12	92.82	94.92	95.80	91.86	85.60	95.63	92.60	93.14	92.73	90.19	90.01	95.22	93.71	90.26	70.60	88.98	95.09	68.24	99.26
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.33.ST__bin.14.fa	69.45	73.51	89.96	93.19	89.65	92.27	91.98	88.86	86.90	94.89	92.18	90.27	90.72	89.73	86.51	93.48	92.13	93.35	71.39	86.93	94.28	69.43	92.86	91.60
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.62.ST__bin.29.fa	68.41	68.15	93.01	93.68	85.72	88.58	87.75	87.26	88.78	93.00	91.52	86.01	89.28	92.20	82.20	95.08	96.22	84.96	72.27	85.21	97.33	70.40	87.82	84.51	83.59
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.67.ST__bin.42.fa	62.54	63.62	86.22	89.75	82.69	84.59	83.64	82.22	80.91	90.53	87.78	82.53	84.99	85.45	78.74	93.42	91.23	80.76	67.25	78.88	97.95	64.11	84.26	81.06	78.37	84.08
-/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.8.ST__bin.6.fa	66.08	68.30	89.35	90.26	88.25	90.52	89.54	88.93	82.82	91.42	89.34	88.57	89.30	88.29	84.39	91.28	91.59	86.16	69.03	85.07	91.56	66.51	95.85	91.85	83.85	83.98	91.53
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.22.ST__bin.54.fa	70.92
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.26.ST__bin.32.fa	63.72	64.13
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.27.ST__bin.64.fa	65.61	67.09	91.90
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.4.ST__bin.64.fa	64.38	73.07	88.91	92.55
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.5.ST__bin.28.fa	67.53	72.66	93.04	96.40	92.36
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.52.ST__bin.84.fa	67.93	71.91	91.93	94.65	94.24	96.39
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M1.7.ST__bin.59.fa	63.22	67.02	89.59	88.41	86.13	88.40	86.76
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.37.ST__bin.49.fa	64.50	64.33	90.75	87.04	79.31	81.80	80.96	81.74
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.39.ST__bin.7.fa	64.13	66.30	91.00	93.66	85.75	89.38	85.84	85.10	83.26
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.44.ST__bin.90.fa	67.30	69.25	91.09	94.42	86.79	88.76	87.15	85.55	84.96	93.80
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.45.ST__bin.27.fa	68.40	72.23	93.01	95.08	91.35	96.39	93.35	92.77	85.69	97.50	92.45
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.48.ST__bin.36.fa	66.79	70.40	91.62	95.58	90.09	90.45	89.33	88.82	85.20	94.62	93.68	86.77
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.49.ST__bin.71.fa	61.55	61.28	89.43	87.22	78.25	79.04	77.99	80.34	83.09	85.05	84.64	75.95	85.71
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__M2.58.ST__bin.20.fa	69.00	73.48	91.59	94.80	94.07	97.43	99.44	92.42	85.28	96.03	93.15	93.10	92.01	90.23
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.18.ST__bin.8.fa	65.46	66.53	89.70	93.83	85.90	89.40	88.18	85.78	84.41	93.71	91.64	85.66	88.50	89.03	83.14
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.21.ST__bin.22.fa	61.63	60.33	90.46	85.50	78.66	81.57	80.46	82.27	83.93	86.02	83.59	78.76	80.97	88.63	75.39	89.29
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.36.ST__bin.14.fa	70.49	74.24	91.52	93.99	90.33	94.05	91.95	90.19	87.02	96.56	94.43	92.67	90.70	89.74	86.94	94.56	93.65
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.38.ST__bin.27.fa	65.05	62.15	88.63	85.57	77.33	79.66	78.43	81.08	83.07	83.93	82.70	77.22	81.51	89.54	74.16	85.03	90.86	77.83
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.39.ST__bin.103.fa	69.22	72.12	92.34	94.14	90.75	96.50	93.99	93.21	88.56	94.74	93.66	92.52	92.15	90.13	88.72	96.50	95.51	90.97	71.20
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.4.ST__bin.7.fa	62.15	62.69	88.04	88.86	81.89	83.65	83.00	83.85	82.29	90.12	86.79	81.83	84.17	87.04	77.98	92.39	92.82	79.94	68.13	78.11
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W1.42.ST__bin.27.fa	71.07	71.84	93.13	93.81	87.32	89.05	87.25	88.19	87.57	92.92	92.60	86.10	91.77	95.49	83.15	93.43	94.45	85.97	72.51	83.65	94.47
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.11.ST__bin.73.fa	67.36	70.13	91.53	92.96	90.10	92.96	91.81	90.47	84.65	93.79	91.62	90.67	91.39	90.34	86.28	93.86	93.60	88.38	70.22	87.31	93.91	67.76
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.13.ST__bin.51.fa	67.87	71.05	91.73	94.08	92.67	94.88	95.66	91.73	85.41	95.43	92.53	93.16	92.66	90.11	89.90	95.01	93.57	90.12	70.48	88.92	94.99	68.10	99.01
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.33.ST__bin.14.fa	69.38	73.35	89.86	93.09	89.48	92.12	91.85	88.82	86.74	94.73	92.15	90.17	90.67	89.67	86.37	93.39	92.00	93.26	71.18	86.86	94.27	69.44	92.86	91.48
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.62.ST__bin.29.fa	68.40	67.91	92.84	93.46	85.49	88.35	87.61	87.10	88.56	92.85	91.35	85.91	89.12	91.97	82.09	94.95	96.07	84.84	72.07	85.01	97.17	70.39	87.64	84.36	83.36
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.67.ST__bin.42.fa	62.54	63.50	86.20	89.70	82.61	84.54	83.62	82.05	80.75	90.48	87.71	82.61	85.00	85.41	78.61	93.29	91.05	80.68	67.00	78.80	97.80	64.08	84.08	80.88	78.24	83.89
+/home/jshaw/scratch/2022_sketched_distance/references/SGB_genome_fastas_part4/5910/BritoIL_2016__W2.8.ST__bin.6.fa	66.03	68.26	89.27	90.26	88.12	90.50	89.45	88.89	82.70	91.32	89.27	88.51	89.18	88.18	84.37	91.21	91.54	86.03	68.81	84.92	91.41	66.50	95.65	91.67	83.81	83.89	91.35
