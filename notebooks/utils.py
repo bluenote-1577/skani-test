@@ -71,6 +71,8 @@ def parse_matrix(mat_file, cutoff = 0):
 def parse_dist_file(dist_file):
     dist_dict = dict()
     for line in open(dist_file, 'r'):
+        if 'ANI' in line:
+            continue
         spl = line.split()
         main_ref = spl[0]
         main_ref = main_ref.split("/")[-1]
@@ -83,7 +85,7 @@ def parse_dist_file(dist_file):
         elif "aniu" in dist_file:
             dist_dict[(main_ref,other_ref)] = float(spl[3])
         else:
-            dist_dict[(main_ref,other_ref)] = float(spl[2]) * 100
+            dist_dict[(main_ref,other_ref)] = float(spl[2]) 
 
     return dist_dict
 
