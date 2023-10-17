@@ -14,16 +14,17 @@ D5_mash = "../precomputed_results/D5_mash.txt"
 fastani_gtdb = "../precomputed_results/gtdb_fastani.txt"
 fastani_D2 = "../precomputed_results/D2_fastani.txt"
 D5_fastani = "../precomputed_results/D5_fastani.txt"
-contain_D2 = "./D2_contain.tsv"
+contain_D2_k21 = "./D2_contain_k21.tsv"
+contain_D2_k31 = "./D2_contain_k31.tsv"
 ref_file_i = [aniu_D2]
-other_files_i = [[contain_D2, skani_D2]]
+other_files_i = [[contain_D2_k21, contain_D2_k31]]
 #plt.style.use(['science'])
 
 plt.rcParams.update({'font.size': 7})
 plt.rcParams.update({'figure.autolayout': True})
 plt.rcParams.update({'font.family':'arial'})
 cm = 1/2.54  # centimeters in inches
-fig = plt.figure(figsize=(18*cm, 6*cm))
+fig = plt.figure(figsize=(6*cm, 6*cm))
 d_max = 100000
 n50_thresh = 0
 
@@ -202,13 +203,13 @@ for j in range(1):
 
         #plt.scatter(points[:,0], points[:,i+1], label = other_files[i], alpha = 0.75)
         if len(points) > d_max:
-            ax.plot(points[:d_max,0], points[:d_max,i+1],  marker, label = label, fillstyle='none', alpha=1.0, ms = 5.0, c=c, mew=1.0)
+            ax.plot(points[:d_max,0], points[:d_max,i+1],  marker, label = label, fillstyle='none', alpha=1.0, ms = 5.0, mew=1.0)
         else:
-            ax.plot(points[:,0], points[:,i+1], marker , label = label, fillstyle='none', alpha=1.0, ms = 5.0, c=c, mew=1.0)
+            ax.plot(points[:,0], points[:,i+1], marker , label = label, fillstyle='none', alpha=1.0, ms = 5.0, mew=1.0)
         #plt.plot(points[:,0], points[:,i+1],  'o', label = other_files[i], alpha=0.5)
     if 'aniu' in ref_file:
         plt.xlabel("OrthoANIu ANI")
-        plt.ylabel("Method ANI")
+        plt.ylabel("Containment ANI")
     else:
         plt.xlabel("EzAAI AAI")
         plt.ylabel("Method AAI")
